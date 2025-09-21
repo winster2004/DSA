@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/winster2004/DSA/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/winster2004/DSA/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/winster2004/DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/winster2004/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/winster2004/DSA/tree/master/0118-pascals-triangle) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/winster2004/DSA/tree/master/0031-next-permutation) |
 | [0283-move-zeroes](https://github.com/winster2004/DSA/tree/master/0283-move-zeroes) |
 ## Matrix
 |  |
