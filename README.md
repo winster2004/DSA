@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/winster2004/DSA/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1791-richest-customer-wealth](https://github.com/winster2004/DSA/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/winster2004/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/winster2004/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/winster2004/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/winster2004/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/winster2004/DSA/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/winster2004/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
 | ------- |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/winster2004/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/winster2004/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
